@@ -21,21 +21,11 @@ export default function Header() {
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center gap-8">
-            <a href="#features" className="text-muted hover:text-primary transition-colors">
-              Features
-            </a>
-            <a href="#products" className="text-muted hover:text-primary transition-colors">
-              Products
-            </a>
-            <a href="#reviews" className="text-muted hover:text-primary transition-colors">
-              Reviews
-            </a>
-            <a href="#blog" className="text-muted hover:text-primary transition-colors">
-              Blog
-            </a>
-            <a href="#contact" className="text-muted hover:text-primary transition-colors">
-              Contact
-            </a>
+            
+            
+            
+            
+            
           </nav>
 
           {/* CTA Button */}

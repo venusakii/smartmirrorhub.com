@@ -107,9 +107,7 @@ export default function Footer() {
 
             <p className="text-center">© 2025 SmartMirrorX. All rights reserved.</p>
 
-            <p className="text-xs text-center max-w-md">
-              🛒 As an Amazon Associate, we earn from qualifying purchases.
-            </p>
+            
           </div>
         </div>
       </div>
